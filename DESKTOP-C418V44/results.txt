@@ -1,5 +1,6 @@
-Command: whoami
-Time: 2025-10-10 04:56:23 -07:00
-Output: desktop-c418v44\pc
+Command: doc_up
+Time: 2025-10-10 04:56:38 -07:00
+Output: Command failed: 'doc_up' is not recognized as an internal or external command,
+operable program or batch file.
 
 
