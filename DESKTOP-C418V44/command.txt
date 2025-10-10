@@ -1,1 +1,1 @@
-ss_up
+whoami
