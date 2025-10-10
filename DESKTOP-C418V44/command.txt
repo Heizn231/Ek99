@@ -1,1 +1,1 @@
-whoami
+doc_up
